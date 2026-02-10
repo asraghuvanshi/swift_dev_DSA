@@ -30,5 +30,3 @@ class Solution {
 
 let sol = Solution().removeDuplicate1(arr: [1,4,5,6,1,5])
 print(sol)
-
-
